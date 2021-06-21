@@ -1,9 +1,8 @@
 # Product-on-Amazon-CustomerReview-Analysis (NLP)
 Natural Language Processing project for Amazon customer reviews
 
-data explaination: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/
-reviews_Toys_and_Games_5.json.gz
-![image](https://user-images.githubusercontent.com/73352684/122755887-44057f80-d25b-11eb-98ec-7fd53e30c4a8.png)
+data source: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Toys_and_Games_5.json.gz
+
  
 
 
